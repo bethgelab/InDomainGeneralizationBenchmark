@@ -1,4 +1,4 @@
-# LabletGeneralizationBenchmark
+# InDomainGeneralizationBenchmark
 
 We propose a simple generalization benchmark with various systematic
 out-of-distribution test splits (composition, interpolation and extrapolation).
