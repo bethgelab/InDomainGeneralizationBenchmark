@@ -1,0 +1,12 @@
+[tool.black]
+line-length = 100
+
+[tool.isort]
+known_first_party = ["lablet_generalization_benchmark"]
+
+# required for compatibility with black:
+profile = "black"
+
+# To maintain consistency with other settings
+line_length = 100
+
