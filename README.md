@@ -86,4 +86,13 @@ We use the R2 metric for evaluation and ranking models.
 
 ## Citation
 
-Please cite our paper at _bibtex_placeholder_.
+Please cite our [paper](https://arxiv.org/pdf/2107.08221.pdf) at 
+
+@misc{schott2021visual,\
+      title={Visual Representation Learning Does Not Generalize Strongly Within the Same Domain}, 
+      author={Lukas Schott and Julius von Kügelgen and Frederik Träuble and Peter Gehler and Chris Russell and Matthias Bethge and Bernhard Schölkopf and Francesco Locatello and Wieland Brendel},\
+      year={2021},\
+      eprint={2107.08221},\
+      archivePrefix={arXiv},\
+      primaryClass={cs.LG}\
+}.
