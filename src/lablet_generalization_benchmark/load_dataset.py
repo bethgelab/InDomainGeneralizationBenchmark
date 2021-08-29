@@ -92,7 +92,7 @@ class BenchmarkDataset(torch.utils.data.Dataset):
         return image, targets
 
     @staticmethod
-    def download_dataset(self, file_path):
+    def download_dataset(file_path):
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
         from urllib import request
         if 'dsprites' in file_path.lower():
